@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">睡着自动息屏</string>
+    <string name="accessibility_desc">在抖音等应用里连续若干分钟没有任何点击、滑动时，自动锁屏息屏，避免视频自动连播一整夜。本服务只读取"当前是哪个应用在前台"和"有没有发生点击/滑动"两类信息，不读取屏幕内容，不联网，不上传任何数据。</string>
+</resources>
